@@ -3,7 +3,7 @@
 Ekstensi Chrome untuk mengaktifkan mode membaca dengan menghilangkan konten-konten yang mengganggu pengalaman membaca.
 
 ## Deskripsi
-**Mode Membaca** adalah ekstensi Chrome yang berfungsi untuk meningkatkan pengalaman membaca di web dengan menyederhanakan tampilan halaman. Ekstensi ini menghilangkan elemen-elemen yang tidak relevan seperti iklan, sidebar, atau konten tambahan yang mengganggu, sehingga pengguna bisa fokus pada artikel atau teks yang dibaca. Ekstensi dapat diaktifkan dan dinonaktifkan dengan satu klik.
+**Mode Membaca** adalah ekstensi Chrome yang berfungsi untuk meningkatkan pengalaman membaca di web dengan menyederhanakan tampilan halaman. Ekstensi ini menghilangkan elemen-elemen yang tidak relevan seperti iklan, sidebar, atau konten tambahan yang mengganggu, sehingga pengguna bisa fokus pada artikel atau teks yang dibaca. Ekstensi dapat diaktifkan dan dinonaktifkan dengan satu klik. Ekstensi ini hanya dapat digunakan di **desktop**.
 
 ## Fitur
 - Mengaktifkan mode membaca yang menyederhanakan tampilan halaman web.
